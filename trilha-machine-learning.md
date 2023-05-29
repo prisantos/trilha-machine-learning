@@ -1,2 +1,2 @@
-# TRILHA DE APRENDIZAGEM  PARA MACHINE LEARNING 
+# Trilha de Aprendizagem - Machine Learning 
 
